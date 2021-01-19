@@ -12,7 +12,7 @@
 
 Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web developer from Algeria 🇩🇿
 
-- 🔭 I’m currently working on something awesome :wink:
+- 🔭 I’m currently working on something cool :wink:
 - 👯 I’m looking to collaborate on a research lab.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/">@bouabdallahazeddine-designer</a>
 - ⚡ Fun fact: I'm awesome :stuck_out_tongue_winking_eye:
