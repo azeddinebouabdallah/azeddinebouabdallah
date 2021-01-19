@@ -7,6 +7,8 @@
   <img align="left" alt="Azeddine Bouabdallah" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+
 Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web developer from Algeria 🇩🇿
 
 - 🔭 I’m currently working on something awesome :wink:
