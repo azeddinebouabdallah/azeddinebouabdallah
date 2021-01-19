@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/azeddine_dev">
+<a href="https://twitter.com/azeddine_dev" target="_blank">
   <img align="left" alt="Azeddine Bouabdallah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/">
+<a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/" target="_blank">
   <img align="left" alt="Azeddine Bouabdallah" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
