@@ -31,7 +31,7 @@ Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Natural language processing problem. 
+Natural language processing and Human motion classification problems
 ```
 <!--END_SECTION:waka-->
 
