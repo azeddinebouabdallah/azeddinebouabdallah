@@ -14,7 +14,7 @@ Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web 
 
 - 🔭 I’m currently working on a personal project.
 - 👯 I’m currenlty colaborating on a research lab.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/">@bouabdallahazeddine-designer</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/">@bouabdallahazeddine</a>
 - ⚡ Fun fact: I'm awesome :stuck_out_tongue_winking_eye:
 
 **Languages and Tools:**  
