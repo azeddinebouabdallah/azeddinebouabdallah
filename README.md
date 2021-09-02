@@ -10,10 +10,10 @@
 <br/>
 <br />
 
-Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web developer from Algeria 🇩🇿
+Hi! My name is Azeddine Bouabdallah. I am a data scientist and a machine learning engineer
 
 - 🔭 I’m currently working on a personal project.
-- 👯 I’m currenlty colaborating on a research lab.
+- 👯 I’m currenlty a research assistant in the university of Koblenz-Landau, Germany.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine/">@bouabdallahazeddine</a>
 
 **Languages and Tools:**  
@@ -30,7 +30,8 @@ Hi! My name is Azeddine Bouabdallah. I am a data scientist and a full stack web 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Learning more about natural language processing 
+Learning more about natural language processing.
+Working on a research project for price forecasting.
 ```
 <!--END_SECTION:waka-->
 
