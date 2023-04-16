@@ -10,10 +10,10 @@
 <br/>
 <br />
 
-Hi! My name is Azeddine Bouabdallah. I am a data scientist and a machine learning engineer
+Hi! My name is Azeddine Bouabdallah. I am a data engineer.
 
-- 🔭 I’m currently working on a personal project.
-- 👯 I’m currenlty a research assistant in the university of Koblenz-Landau, Germany.
+- 🔭 I’m currently working on cool data projects.
+- 👯 I’m currenlty a Data Engineer at LexisNexis.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine/">@bouabdallahazeddine</a>
 
 **Languages and Tools:**  
