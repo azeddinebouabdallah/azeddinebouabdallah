@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/azeddine_dev" target="_blank">
-  <img align="left" alt="Azeddine Bouabdallah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bouabdallahazeddine-designer/" target="_blank">
-  <img align="left" alt="Azeddine Bouabdallah" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <br/>
 <br />
 
-Hi! My name is Azeddine Bouabdallah. I am a data engineer.
+Hi! My name is Azeddine Bouabdallah. I am a Data Engineer.
 
 - 🔭 I’m currently working on cool data projects.
-- 👯 I’m currenlty a Data Engineer at LexisNexis.
+- 👯 I’m currently a Data Engineer at LexisNexis.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bouabdallahazeddine/">@bouabdallahazeddine</a>
 
 **Languages and Tools:**  
